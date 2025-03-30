@@ -6,7 +6,7 @@ I'm a passionate backend developer specializing in Django and Laravel with stron
 
 ### Spsh
 **Description:**  
-Spsh is a comprehensive e-commerce platform built with Django that supports both physical and digital product sales. It features an integrated wallet system so that users can recharge their wallet and make purchases seamlessly.
+[spsh](https://github.com/yacn114/spsh) is a comprehensive e-commerce platform built with Django that supports both physical and digital product sales. It features an integrated wallet system so that users can recharge their wallet and make purchases seamlessly.
 
 **Key Features:**
 - Sell physical and digital products
@@ -20,7 +20,7 @@ Spsh is a comprehensive e-commerce platform built with Django that supports both
 
 ### Spsh2
 **Description:**  
-Spsh2 is an enhanced, more secure version of Spsh. This project builds on the original by adding advanced security measures using middleware and role-based permissions to ensure a safe environment for both customers and administrators.
+[spsh2](https://github.com/yacn114/spsh2) is an enhanced, more secure version of Spsh. This project builds on the original by adding advanced security measures using middleware and role-based permissions to ensure a safe environment for both customers and administrators.
 
 **Key Features:**
 - All features of Spsh
