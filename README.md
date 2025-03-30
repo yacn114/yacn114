@@ -56,5 +56,6 @@ I'm a dedicated developer with expertise in **Django** and **Laravel**, and I ha
 
 Feel free to check out my repositories or reach out if you'd like to collaborate or simply chat about tech!
 
-[![Email](https://img.shields.io/badge/Email-yacn1214%40gmail.com-blue)](mailto:zy11hey@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-zy11hey%40gmail.com-blue)](mailto:zy11hey@gmail.com)  
 [![Telegram](https://img.shields.io/badge/Telegram-%40yacn_1414-blue)](https://www.t.me/yacn_1414)  
+[![Telegram channel](https://img.shields.io/badge/Channel-FreeData-blue)](https://www.t.me/freeda_ta)  
