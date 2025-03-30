@@ -56,6 +56,5 @@ I'm a dedicated developer with expertise in **Django** and **Laravel**, and I ha
 
 Feel free to check out my repositories or reach out if you'd like to collaborate or simply chat about tech!
 
-[![Email](https://img.shields.io/badge/Email-your.email%40example.com-blue)](mailto:your.email@example.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-MyProfile-blue)](https://www.linkedin.com/in/yourprofile)  
-[![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-blue)](https://twitter.com/yourhandle)
+[![Email](https://img.shields.io/badge/Email-your.email%40example.com-blue)](mailto:zy11hey@gmail.com)  
+[![Telegram](https://img.shields.io/badge/LinkedIn-MyProfile-blue)](https://www.t.me/yacn_1414)  
