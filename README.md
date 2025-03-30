@@ -1,6 +1,6 @@
-# Hi, I'm yacn114 👋
+# Hi, I'm yacn 👋
 
-I'm a passionate full-stack developer specializing in **Django** and **Laravel** with strong proficiency in **Linux**. I love building robust, secure, and user-friendly web applications and actively contribute to open source projects.
+I'm a passionate backend developer specializing in Django and Laravel with strong proficiency in Linux. I love building robust, secure, and user-friendly web applications and actively contribute to open source projects.
 
 ## 🚀 Projects
 
@@ -34,7 +34,7 @@ Spsh2 is an enhanced, more secure version of Spsh. This project builds on the or
 
 ### Panel Professional
 **Description:**  
-[Panel Professional](https://github.com/ashkanrabiee/panel_professional) is a sophisticated JavaScript-based admin panel that offers a wide range of features. It enables blog management, product sales, and detailed tracking of orders and products. Although this project is owned by a friend, I contributed significantly to its development—helping implement several advanced functionalities.
+[Panel Professional](https://github.com/ashkanrabiee/panel_professional) is a sophisticated admin panel developed as a collaborative project between me and my friend. The frontend is built using JavaScript, while the backend is powered by Laravel. This panel offers a wide range of features, including blog management, product sales, and detailed tracking of orders and products.
 
 **Key Features:**
 - Blog post management
@@ -42,7 +42,7 @@ Spsh2 is an enhanced, more secure version of Spsh. This project builds on the or
 - Extensive admin panel features
 
 **Technologies:**  
-`JavaScript`, `HTML/CSS` (and other JS frameworks/libraries as applicable)
+`Laravel` ,`JavaScript`, `HTML/CSS` (and other JS frameworks/libraries as applicable)
 
 ---
 
