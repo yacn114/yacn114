@@ -1,7 +1,7 @@
 # Hi, I'm yacn 👋
 
 I'm a passionate backend developer specializing in Django and Laravel with strong proficiency in Linux. I love building robust, secure, and user-friendly web applications and actively contribute to open source projects.
-
+![Profile Views](https://komarev.com/ghpvc/?username=yacn114&color=blue)
 ## 🚀 Projects
 
 ### Spsh
